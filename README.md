@@ -5,6 +5,7 @@ Hello, World! 🌎 My name is Luis Fernando, and I'm a Software Engineer from Qu
 ## My skills
 - **Programming Languages:** TypeScript, JavaScript, Ruby, Python, PHP, Unreal Engine
 - **Frameworks:** Express, Nest.js, React, Ruby on Rails, Django, Laravel
+- **Management skills:** Leadership, empathy, communication, strategic thinking, innovation
 - **General technical skills:** Software design and architecture, distributed systems, real-time programming, functional programming, databases
 - **Additional experience:** Cybersecurity and ISO27001 Compliance, Business Process Modeling, Legacy System Integration, ERP Development (Infor)
 - **Personal interests:** Music performing and production, videogames, woodworking, gardening, dad jokes
